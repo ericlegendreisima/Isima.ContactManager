@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isima.ContactManager", "Isima.ContactManager\Isima.ContactManager.csproj", "{6DFF0F2F-4D5F-4AD0-997A-4D2EBC41278F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isima.ContactManager.Data", "Isima.ContactManager.Data\Isima.ContactManager.Data.csproj", "{54C00AB3-36FA-416D-90BA-96403ABAFDDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isima.ContactManager.Serialization", "Isima.ContactManager.Serialization\Isima.ContactManager.Serialization.csproj", "{A3CBE74F-9C88-4396-917C-60F90C246719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DFF0F2F-4D5F-4AD0-997A-4D2EBC41278F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DFF0F2F-4D5F-4AD0-997A-4D2EBC41278F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DFF0F2F-4D5F-4AD0-997A-4D2EBC41278F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DFF0F2F-4D5F-4AD0-997A-4D2EBC41278F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54C00AB3-36FA-416D-90BA-96403ABAFDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C00AB3-36FA-416D-90BA-96403ABAFDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C00AB3-36FA-416D-90BA-96403ABAFDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C00AB3-36FA-416D-90BA-96403ABAFDDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3CBE74F-9C88-4396-917C-60F90C246719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CBE74F-9C88-4396-917C-60F90C246719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CBE74F-9C88-4396-917C-60F90C246719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CBE74F-9C88-4396-917C-60F90C246719}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
